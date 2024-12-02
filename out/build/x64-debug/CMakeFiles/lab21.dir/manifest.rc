@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/admin/OneDrive/Рабочий стол/Labs/lab21/out/build/x64-debug/CMakeFiles/lab21.dir/embed.manifest"
